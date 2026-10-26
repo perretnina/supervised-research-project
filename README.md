@@ -1,12 +1,12 @@
 # Supervised Research Project – Non-Newtonian Fluids
 
-**Academic Year: 2023–2024**
+*2023–2024 | Experimental Research · Non-Newtonian Fluids · Python*
 
 Experimental research project investigating the properties of **non-Newtonian fluids** and their potential applications in bicycle helmet impact protection.
 
 ## Project Overview
 
-This project was conducted during the 2023–2024 academic year as part of the **TIPE (Travaux d'Initiative Personnelle Encadrés)**, a supervised research project undertaken in French preparatory classes for engineering schools.
+This project was conducted over two years (2023–2024) as part of the **TIPE (Travaux d'Initiative Personnelle Encadrés)**, a supervised research project undertaken during the two-year French preparatory program for engineering schools.
 
 The research focused on understanding how non-Newtonian fluids respond to mechanical stress and exploring their potential use in impact protection systems.
 
@@ -46,9 +46,3 @@ The repository includes two documents:
 
 - **[Research Summary](research_summary.pdf):** Overview of the research objectives, scientific background and methodology.
 - **[Research Presentation](research_slides.pdf):** Slides used to present the project and its findings.
-
-## Author
-
-**Nina Perret**  
-Academic Year 2023–2024  
-TIPE – French Preparatory Classes for Engineering Schools
